@@ -1,0 +1,170 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+/* Adjusting heading sizes */
+h1 {
+  font-size: 42px; /* Slightly increase font size for heading */
+}
+
+h2 {
+  font-size: 28px; /* Slightly increase font size for subheading */
+  margin-top: 30px; /* Add a bit more margin for subheading */
+}
+
+/* Styling the header */
+header {
+  background-color: #28a5d3;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+
+/* Styling the navigation */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+  padding: 5px 10px; /* Adding padding to improve spacing */
+  border-radius: 5px; /* Adding rounded corners to the buttons */
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+nav a:hover {
+  background-color: #28a5d3; /* Adding a hover effect */
+}
+
+/* Styling the main content area */
+main {
+  max-width: 90%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc; /* Adding a subtle border */
+  border-radius: 10px; /* Adding rounded corners */
+}
+/* Styling section elements */
+section {
+  margin-bottom: 40px;
+}
+
+/* Styling the footer */
+footer {
+  background-color: #28a5d3;
+  color: #fff;
+  text-align: center;
+  padding: 20px; /* Increase padding for better spacing */
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Styling the buttons */
+#yourGuidesBtn, #recommendBtn {
+  background-color: #181a1b;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 15px;
+  margin-top: 20px;
+  
+}
+#recommend-container{
+  border-radius: 10px;
+}
+
+#yourGuidesBtn:hover, #recommendBtn:hover {
+  background-color: #2a3034;
+}
+
+/* Adding hover effect to featured guides */
+#featuredGuides li:hover {
+  background-color: #f0f0f0;
+}
+#recommend-container li:hover {
+  background-color: #f0f0f0;
+}
+#recentArticles li:hover {
+  background-color: #f0f0f0;
+}
+
+/* Adding transition effect to buttons */
+#yourGuidesBtn, #recommendBtn {
+  transition: background-color 0.3s;
+}
+
+
+#recommend-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#recommend-container h2 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#recommend-container ul {
+  margin-bottom: 40px;
+}
+
+#recommend-container li {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+/* Add transition to navigation links and buttons */
+nav a, #yourGuidesBtn, #recommendBtn {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Add hover effect to navigation links */
+nav a:hover {
+  background-color: #28a5d3;
+  color: #fff;
+}
+body {
+  background-image: linear-gradient(to bottom, #f0f0f0, #dcdcdc);
+}
+/* Add border to buttons */
+#yourGuidesBtn, #recommendBtn {
+  border: 1px solid #181a1b;
+}
+/* Add a subtle animation to buttons */
+#yourGuidesBtn, #recommendBtn {
+  animation: bounce 2s ease-in;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}

@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#progress-bar {
+    width: 100%;
+    background-color: #ccc;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+#progress {
+    width: 0;
+    height: 100%;
+    background-color: #4caf50;
+}
+
+.challenge {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+}
+.challenge:hover{
+    background-color: rgb(142, 236, 231);
+    cursor:pointer;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+FELL+Double+Pica:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-im-fell-double-pica: "IM FELL Double Pica";
+  --font-inknut-antiqua: "Inknut Antiqua";
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-47xl: 66px;
+  --font-size-sm: 14px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-midnightblue: #112580;
+  --color-black: #000;
+  --color-gray: rgba(0, 0, 0, 0.77);
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-12xs: 1px;
+}

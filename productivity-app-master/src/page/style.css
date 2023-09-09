@@ -1,0 +1,333 @@
+.macbook-air-1-child {
+    position: absolute;
+    top: 19px;
+    left: 40px;
+    border-radius: 15px;
+    width: 1212px;
+    height: 797px;
+  }
+  .i,
+  .productix {
+    font-size: var(--font-size-11xl);
+  }
+  .productix {
+    color: #f28925;
+  }
+  .infiniteproductix {
+    position: absolute;
+    top: 24px;
+    left: 132px;
+    font-family: var(--font-inknut-antiqua);
+    color: #bd30b1;
+  }
+  .screenshot-2023-09-07-230318-r-icon {
+    position: absolute;
+    top: 255px;
+    left: 640px;
+    border-radius: 41px;
+    width: 588px;
+    height: 415px;
+    object-fit: cover;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 119.01px;
+    border-radius: var(--br-12xs);
+    width: 106px;
+    height: 38px;
+  }
+  .group-item,
+  .register {
+    position: absolute;
+    top: 1px;
+  }
+  .group-item {
+    left: 120.01px;
+    border-radius: var(--br-12xs);
+    width: 104px;
+    height: 36.94px;
+  }
+  .register {
+    left: 131px;
+    display: inline-block;
+    width: 109px;
+    height: 18px;
+  }
+  .group-inner,
+  .rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 0.01px;
+    border-radius: var(--br-12xs);
+    width: 104px;
+    height: 36.94px;
+  }
+  .rectangle-icon {
+    top: 1px;
+    width: 106px;
+    height: 38px;
+  }
+  .group-child1,
+  .login {
+    position: absolute;
+    top: 2px;
+  }
+  .group-child1 {
+    left: 1.01px;
+    border-radius: var(--br-12xs);
+    width: 104px;
+    height: 36.94px;
+  }
+  .login {
+    left: 33px;
+    display: inline-block;
+    width: 109px;
+    height: 18px;
+  }
+  .icon-lock-locked {
+    position: absolute;
+    height: 53.85%;
+    width: 7.08%;
+    top: 20.51%;
+    right: 89.58%;
+    bottom: 25.64%;
+    left: 3.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-parent {
+    position: absolute;
+    top: 37px;
+    left: 1012px;
+    width: 240px;
+    height: 39px;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-inknut-antiqua);
+  }
+  .blank-line {
+    margin: 0;
+  }
+  .unleash-your-potential-container {
+    position: absolute;
+    top: 320px;
+    left: 59px;
+    font-size: var(--font-size-6xl);
+    line-height: 142.34%;
+    background: linear-gradient(130.96deg, rgba(95, 64, 79, 0.99), #4a423b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 417px;
+    height: 368px;
+  }
+  .screenshot-2023-09-07-230108-r-icon {
+    position: absolute;
+    top: 37px;
+    left: 51px;
+    border-radius: 140.5px;
+    width: 82px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .meets {
+    font-size: var(--font-size-21xl);
+  }
+  .infinite {
+    font-size: 50px;
+  }
+  .meets-infinite-possibilities {
+    background: linear-gradient(130.96deg, rgba(95, 64, 79, 0.99), #4a423b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: var(--font-size-21xl);
+  }
+  .productivity-meets-infinite-container {
+    position: absolute;
+    top: 187px;
+    left: 59px;
+    line-height: 142.34%;
+    display: inline-block;
+    width: 554px;
+    height: 217px;
+    font-size: var(--font-size-47xl);
+    color: #8e2485;
+  }
+  .group-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    width: 459px;
+    height: 468px;
+  }
+  .man-reading-a-book-illustratio-icon {
+    position: absolute;
+    top: 27px;
+    left: 79px;
+    width: 302px;
+    height: 234px;
+    object-fit: cover;
+  }
+  .discover-expert-insights {
+    position: absolute;
+    top: 315px;
+    left: 60px;
+    line-height: 142.34%;
+    display: inline-block;
+    width: 363px;
+    height: 93px;
+  }
+  .productivity-book-review {
+    position: absolute;
+    top: 252px;
+    left: 101px;
+    font-size: var(--font-size-6xl);
+    line-height: 142.34%;
+    color: var(--color-midnightblue);
+  }
+  .vector-group {
+    position: absolute;
+    top: 816px;
+    left: 704px;
+    width: 459px;
+    height: 468px;
+    color: var(--color-gray);
+  }
+  .frame-child {
+    position: relative;
+    border-radius: var(--br-11xl);
+    width: 459px;
+    height: 468px;
+    z-index: 0;
+  }
+  .oip-1-icon {
+    position: absolute;
+    margin: 0 !important;
+    top: 15px;
+    left: 38px;
+    width: 405px;
+    height: 234px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .elevate-productivity-tackle,
+  .productivity-challenges {
+    position: absolute;
+    margin: 0 !important;
+    top: 252px;
+    left: 107px;
+    line-height: 142.34%;
+    z-index: 2;
+  }
+  .elevate-productivity-tackle {
+    top: 314px;
+    left: 59px;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray);
+    display: inline-block;
+    width: 363px;
+    height: 93px;
+    flex-shrink: 0;
+    z-index: 3;
+  }
+  .macbook-air-1-inner,
+  .vector-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .vector-container {
+    flex-direction: column;
+    position: relative;
+    gap: 10px;
+  }
+  .macbook-air-1-inner {
+    position: absolute;
+    top: 816px;
+    left: 132px;
+    flex-direction: row;
+    font-size: var(--font-size-6xl);
+    color: var(--color-midnightblue);
+  }
+  .oip-1-icon1 {
+    position: absolute;
+    top: 49px;
+    left: 73px;
+    width: 306px;
+    height: 177px;
+    object-fit: cover;
+  }
+  .templates-and-worksheets,
+  .templates-and-worksheets1 {
+    position: absolute;
+    top: 252px;
+    left: 95px;
+    line-height: 142.34%;
+  }
+  .templates-and-worksheets1 {
+    color: var(--color-midnightblue);
+  }
+  .unlock-your-potential {
+    position: absolute;
+    top: 314px;
+    left: 59px;
+    font-size: var(--font-size-xl);
+    line-height: 142.34%;
+    display: inline-block;
+    width: 363px;
+    height: 93px;
+  }
+  .group-div {
+    position: absolute;
+    top: 1342px;
+    left: 132px;
+    width: 459px;
+    height: 468px;
+    font-size: var(--font-size-6xl);
+  }
+  .unlock-your-potential1 {
+    position: absolute;
+    top: 314px;
+    left: 79px;
+    line-height: 142.34%;
+    display: inline-block;
+    width: 338px;
+    height: 93px;
+  }
+  .target-audience-1-removebg-pre-icon {
+    position: absolute;
+    top: 23px;
+    left: 115px;
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+  }
+  .goal-setting-planning {
+    position: absolute;
+    top: 252px;
+    left: 102px;
+    font-size: var(--font-size-6xl);
+    line-height: 142.34%;
+    color: var(--color-midnightblue);
+  }
+  .vector-parent1 {
+    position: absolute;
+    top: 1342px;
+    left: 704px;
+    width: 459px;
+    height: 468px;
+  }
+  .macbook-air-1 {
+    position: relative;
+    background-color: #edece8;
+    width: 100%;
+    height: 2221px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-im-fell-double-pica);
+  }
